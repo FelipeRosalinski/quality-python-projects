@@ -45,3 +45,4 @@ def consolidar_planilhas(caminho_separadas):
 
 consolidar_planilhas(pasta_organizados)
 
+print("Consolidação de planilhas concluída com sucesso!")
