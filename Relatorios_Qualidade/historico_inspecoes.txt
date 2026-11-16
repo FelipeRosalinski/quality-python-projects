@@ -1,0 +1,9 @@
+RELATÓRIO DE INSPEÇÕES DE QUALIDADE
+========================================
+Lote 1001 - Produto: Caçarola 24 - Taxa de rejeição: 1.50% - APROVADO
+Lote 1002 - Produto: Frigideira 28 - Taxa de rejeição: 2.94% - REPROVADO
+Lote 1003 - Produto: Panela 20 - Taxa de rejeição: 0.80% - APROVADO
+Lote 1004 - Produto: Caçarola 20 - Taxa de rejeição: 3.00% - REPROVADO
+
+Total de lotes aprovados: 2
+Total de lotes reprovados: 2
